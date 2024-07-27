@@ -1,0 +1,7 @@
+services:
+
+  go: 
+    build:
+      context: .
+    image: go
+    container_name: go
