@@ -1,1 +1,4 @@
-# hellow-world-docker-go
+# hello-world-docker-go
+
+Imagem disponível no dockerhub:
+jonasloz/fullcycle
